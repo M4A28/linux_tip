@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="head.jpg" alt="Linux Tips" width="400">
+</p>
+
 <h1 align="center">Linux Tips</h1>
 
 <p align="center">
